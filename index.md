@@ -1,9 +1,6 @@
 Jiatu Li email: jil165@ucsd.edu\
-
 Capstone section: B11\
-
 Domain: From Theory to Pixels: Diffusion Models for Image and Data Generation\
-
 Mentors: Alex Cloninger, Rayan Saab
 
 **What is the most interesting topic covered in your domain this quarter?**
